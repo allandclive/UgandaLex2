@@ -5,4 +5,4 @@ UgandaLex Parallel Texts in Ugandan Languages is a remarkable dataset consisting
 # Contributors
 @allandclive & @oumo_os
 # Huggingface
-[UgandaLex](https://huggingface.co/datasets/allandclive/UgandaLex2)
+[UgandaLex2](https://huggingface.co/datasets/allandclive/UgandaLex2)
